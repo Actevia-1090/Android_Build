@@ -17,13 +17,13 @@ Follow these steps to use the script:
 2. Make sure the script has execute permissions:
 
     ```bash
-    chmod +x build.sh
+    chmod +x aosp_build.sh
     ```
 
 3. Execute the script:
 
     ```bash
-    ./aosp_build.sh
+    yes y | ./aosp_build.sh
     ```
 
 4. Follow the on-screen instructions.
